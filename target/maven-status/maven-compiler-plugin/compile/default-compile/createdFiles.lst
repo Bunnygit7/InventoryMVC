@@ -1,0 +1,13 @@
+com\pack1\DBInfo.class
+com\pack1\RetriveProductServlet.class
+com\pack1\AddProductServlet.class
+com\pack1\InventoryBean.class
+com\pack1\DBConnect.class
+com\pack1\EditProductServlet.class
+com\pack1\EditProductDAO.class
+com\pack1\ViewInventoryServlet.class
+com\pack1\RetriveProductDAO.class
+com\pack1\ViewInventoryDAO.class
+com\pack1\DeleteProductServlet.class
+com\pack1\DeleteProductDAO.class
+com\pack1\AddProductDAO.class
